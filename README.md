@@ -1,9 +1,7 @@
-# Basic.banking.system.TSF
+Basic.banking.system.TSF
 
 Sparks Foundation Internship Project : Basic Banking System
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users).
-
-# CREATED BY VARSHITHA
 
 To Create a simple dynamic website which has the following specs.
         
